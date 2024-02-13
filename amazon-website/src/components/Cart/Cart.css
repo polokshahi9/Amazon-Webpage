@@ -1,0 +1,15 @@
+.Order_btn{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(6, 144, 86);
+    border-radius: 5px;
+    border: 1px solid gray;
+    /* font-weight: bold; */
+    color: black;
+    cursor: pointer;
+    font-size: 15px;
+}
+.Order_btn:hover{
+    font-weight: bolder;
+
+}

@@ -1,0 +1,47 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    
+}
+.product_name{
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+    
+    
+    
+    
+}
+.section_main{
+    margin-left: 40px;
+}
+.prodiuct_img img{
+    height: 350px;
+    
+    
+   
+    
+}
+.btn_menu{
+    background-color: goldenrod;
+    width: 160px;
+    height: 35px;
+    border: 1px solid ;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.price_tag{
+    font-weight: bold;
+}
+.stock_number{
+    font-weight: bold;
+}
